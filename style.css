@@ -13,6 +13,11 @@ body {
     margin-left: 5%;
     margin-right: 5%;
 }
+.left {
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+}
 .start {
     border-radius: 3px;
     font-size: large;
@@ -38,4 +43,19 @@ h1 {
 .fine {
     text-align: center;
     padding-top: 50px;
+}
+.subscribe {
+    background-color: orangered;
+    border-color: orangered;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.input {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
