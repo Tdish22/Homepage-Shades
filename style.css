@@ -10,4 +10,32 @@ body {
     display: flex;
     justify-content: space-between;
     padding-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.start {
+    border-radius: 3px;
+    font-size: large;
+    color: #0066ff;
+    border-color: #0066ff;
+    background-color: lightblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.corpo {
+    justify-content: center;
+    padding-top: 100px;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+    justify-content: space-around;
+}
+h1 {
+    font-weight: bolder;
+}
+.fine {
+    text-align: center;
+    padding-top: 50px;
 }
